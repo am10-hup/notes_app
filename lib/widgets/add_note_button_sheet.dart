@@ -66,7 +66,6 @@ class _AddNoteFormState extends State<AddNoteForm> {
                 autovalidateMode = AutovalidateMode.always;
                 setState(() {});
               }
-              ;
             },
           ),
           SizedBox(
